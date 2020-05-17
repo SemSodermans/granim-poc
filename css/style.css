@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 .bloc-logo {
     position: relative;
     width: 1300px;
@@ -47,4 +51,11 @@ h1 {
 
 .blauw {
     background-color: blue;
+}
+
+img{
+    width: 1000px;
+    height: 600px;
+    margin-right: auto;
+    margin-left: auto;
 }
