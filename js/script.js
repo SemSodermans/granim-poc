@@ -18,6 +18,5 @@ var granimInstance = new Granim({
     }
 });
 
-/*aos.js*/
 
-AOS.init();
+
