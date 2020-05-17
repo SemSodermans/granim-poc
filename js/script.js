@@ -1,3 +1,5 @@
+/*granim.js*/
+
 var granimInstance = new Granim({
     element: '#logo-canvas',
     direction: 'left-right',
@@ -15,3 +17,7 @@ var granimInstance = new Granim({
         }
     }
 });
+
+/*aos.js*/
+
+AOS.init();

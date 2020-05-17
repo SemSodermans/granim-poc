@@ -1,0 +1,50 @@
+.bloc-logo {
+    position: relative;
+    width: 1300px;
+    height: 490px;
+    float: left;
+}
+
+.bloc-logo canvas,
+.bloc-logo .logo-mask {
+    display: block;
+    width: 1300px;
+    height: 490px;
+}
+
+.bloc-logo .logo-mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: 1300px;
+    background-image: url("/img/Name.png");
+    text-indent: -9999px;
+}
+
+.element {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20vh;
+}
+
+.rood {
+    background-color: red;
+}
+
+.groen {
+    background-color: green;
+}
+
+.blauw {
+    background-color: blue;
+}
