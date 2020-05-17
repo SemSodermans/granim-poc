@@ -59,3 +59,10 @@ img{
     margin-right: auto;
     margin-left: auto;
 }
+
+button {
+    width: 5vh;
+    height: 2vh;
+    background-color: black;
+    border-radius: 50%;
+}
